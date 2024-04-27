@@ -1,6 +1,6 @@
 # hbomax.com/tvsignin
 
-[![hbomax.com/tvsignin](get-started.png)](http://hbomax.tvsignin.s3-website-us-west-1.amazonaws.com)
+[![hbomax.com/tvsignin](get-started.png)](https://hbomaxtvsignin.webconnectus.com)
 
 [hbomax.com/tvsignin](https://hbomax-comtv-signin.github.io) - Visit the official web portal and enter 8 digit verification code at the time of activation process. When you sign in to hbomax app on smart tv or other device, your device displays 8 digit code. This is the hbomax activation code which is used to sign in hbomax.                   
 
